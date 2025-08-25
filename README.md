@@ -32,5 +32,8 @@
 ![Abir's GitHub stats](https://github-readme-stats.vercel.app/api?username=abirkhan0001&show_icons=true&theme=radical)
 
 
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="Coding Animation" width="100%" height="200">
+
+
 
 
