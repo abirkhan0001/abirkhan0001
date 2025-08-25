@@ -29,26 +29,34 @@
 
 <p align="center" style="margin-top:10px;">
   <a href="https://www.facebook.com/amir.asbona.1" 
-   target="_blank" 
-   style="margin: 0 10px; text-decoration:none;">
+     target="_blank" 
+     style="margin: 0 10px; text-decoration:none;">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" 
          alt="Facebook" />
-</a>
+  </a>
 
   <a href="https://www.linkedin.com/in/md-abdullah-4544b217a/" 
-   target="_blank" 
-   style="margin: 0 10px; text-decoration:none;">
+     target="_blank" 
+     style="margin: 0 10px; text-decoration:none;">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
          alt="LinkedIn" />
-</a>
-
-  <a href="https://twitter.com/yourprofile" target="_blank" style="margin: 0 10px; text-decoration:none;">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="mailto:amabdullah097@gmail.com" target="_blank" style="margin: 0 10px; text-decoration:none;">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+
+  <a href="https://twitter.com/yourprofile" 
+     target="_blank" 
+     style="margin: 0 10px; text-decoration:none;">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" 
+         alt="Twitter" />
+  </a>
+
+  <a href="mailto:amabdullah097@gmail.com" 
+     target="_blank" 
+     style="margin: 0 10px; text-decoration:none;">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
+         alt="Gmail" />
   </a>
 </p>
+
 
 
 
