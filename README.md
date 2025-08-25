@@ -22,7 +22,7 @@
 - [Super Shop App](https://zastandapp.netlify.app)
 
 ### 💻 Currently Working On
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHZpOHkzbXp3Ymx3Y3hta3B0ZWk2aDd6ZGR6eGIycXJrNzdlY2RnZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif" alt="Coding Animation" width="100%" height="200">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3JrcmUyd3Z0Y3ZiMGU4dTk4OWI1YnB3d2dwc2QyOWFtdXFuMjRhMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11JTxkrmq4bGE0/giphy.gif" alt="Coding Animation" width="100%" height="200">
 
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-abdullah-4544b217a/)
