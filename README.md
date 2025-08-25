@@ -29,7 +29,14 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amabdullah097@gmail.com)
 
 ### 📊 GitHub Stats
-![Abir's GitHub stats](https://github-readme-stats.vercel.app/api?username=abirkhan0001&show_icons=true&theme=radical)
+<p align="center">
+  <img 
+       src="https://github-readme-stats.vercel.app/api?username=abirkhan0001&show_icons=true&theme=radical" 
+       alt="Abir's GitHub stats" 
+       style="border: 2px solid #00FF7F; border-radius: 10px; padding: 5px;" 
+  />
+</p>
+
 
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="Coding Animation" width="100%" height="200">
