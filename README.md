@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi there 👋, I'm Abir Khan
 
-<!--
-**abirkhan0001/abirkhan0001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌱 About Me
+- Frontend Developer & Web Development Enthusiast
+- Learning **React.js**, **Tailwind CSS**, and **Framer Motion**
+- Passionate about building interactive and responsive web apps
 
-Here are some ideas to get you started:
+### 💻 Skills
+- **Frontend:** HTML, CSS, JavaScript
+- **Frameworks:** React.js, Tailwind CSS
+- **Tools:** Git, GitHub, VS Code, Figma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects & Portfolio
+- [Portfolio Website](myportfoliojj.netlify.app/) *(update link when ready)*
+- [Super Shop App](zastandapp.netlify.app) *(example project)*
+
+### 📫 Connect with Me
+- [LinkedIn]([https://www.linkedin.com/in/abirkhan0001](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit))
+- [Twitter](https://twitter.com/abirkhan0001)
+- [Email](amabdullah097@gmail.com)
+
+### 📊 GitHub Stats
+![Abir's GitHub stats]([https://github-readme-stats.vercel.app/api?username=abirkhan0001&show_icons=true&theme=radical](https://github.com/abirkhan0001))
