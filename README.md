@@ -18,13 +18,23 @@
 
 ### 🚀 Projects & Portfolio
 <p align="left">
-  <a href="https://myportfoliojj.netlify.app/" target="_blank" style="text-decoration:none; color:white; hover:text-green-600" onmouseover="this.style.color='lime';" onmouseout="this.style.color='white';">
-    Portfolio Website
-  </a>
+  <a href="https://myportfoliojj.netlify.app/" 
+   target="_blank" 
+   style="text-decoration:none; color:white;" 
+   onmouseover="this.style.color='lime';" 
+   onmouseout="this.style.color='white';">
+   Portfolio Website
+</a>
+
    &nbsp; | &nbsp;
-  <a href="https://zastandapp.netlify.app" target="_blank" style="text-decoration:none; color:white;" onmouseover="this.style.color='lime';" onmouseout="this.style.color='white';">
-    Super Shop App
-  </a>
+ <a href="https://zastandapp.netlify.app" 
+   target="_blank" 
+   style="text-decoration:none; color:white;" 
+   onmouseover="this.style.color='lime';" 
+   onmouseout="this.style.color='white';">
+   Super Shop App
+</a>
+
 </p>
 
 ### 💻 Currently Working On
