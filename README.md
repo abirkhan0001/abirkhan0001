@@ -1,3 +1,5 @@
+![Coding Animation](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+
 ## Hi there 👋, I'm MD ABDULLAH
 
 ### 🌱 About Me
