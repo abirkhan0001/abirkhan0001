@@ -21,8 +21,9 @@
 - [Super Shop App](https://zastandapp.netlify.app)
 
 ### 💻 Currently Working On
+<p align="center">
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTkyZWU4eGE0YnVreXFobWo4dWw5bHEydmo0am9neHB5djVxd2txOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iml0ZFq2tNAzryx2rf/giphy.gif" alt="Coding Animation" width="100%" height="400">
-
+</p>
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-abdullah-4544b217a/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/abirkhan0001)
