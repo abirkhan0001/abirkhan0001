@@ -32,7 +32,7 @@
 ### 📊 GitHub Stats
 ![Abir's GitHub stats](https://github-readme-stats.vercel.app/api?username=abirkhan0001&show_icons=true&theme=radical)
 
-<p align="center">
+<p align="left">
  <img src="https://komarev.com/ghpvc/?username=abirkhan0001&label=Profile%20Views&color=1E90FF&style=plastic" alt="Profile Views">
 </p>
 
