@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Coding Animation" width="100%" height="200">
+<img src="https://camo.githubusercontent.com/51c0a7381d32821a8481a08cee4efa47f274e2806e6668d74eb86870d1ea105a/68747470733a2f2f692e6962622e636f2e636f6d2f68526267674770712f3230323635303332312d37663464613336312d663938662d343334352d386466342d616466333532613131333232312d657a6769662d636f6d2d726573697a652d312e676966" alt="Coding Animation" width="100%" height="200">
 
 
 ## Hi there 👋, I'm MD ABDULLAH
