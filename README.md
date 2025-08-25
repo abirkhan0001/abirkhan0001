@@ -27,7 +27,7 @@
 
 ## 🌐 Connect With Me
 
-<p align="center" style="margin-top:10px; display:flex; justify-content:center; gap:15px; flex-wrap:wrap;">
+<p align="center" style="margin-top:20px; display:flex; justify-content:center; gap:15px; flex-wrap:wrap;">
   <a href="https://www.facebook.com/amir.asbona.1" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
