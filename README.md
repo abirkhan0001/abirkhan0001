@@ -1,4 +1,5 @@
-![Coding Animation](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnFudGYwYjlvaWN3Y29kajd4b2lmazBhbGFoeGI4azZxbmJ0ZTc2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1E6n392K9E1lypVEM/giphy.gif)
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Coding Animation" width="100%" height="200">
+
 
 ## Hi there 👋, I'm MD ABDULLAH
 
