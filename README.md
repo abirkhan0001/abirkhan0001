@@ -21,8 +21,8 @@
 - [Super Shop App](https://zastandapp.netlify.app)
 
 ### 💻 Currently Working On
-<p align="center">
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTkyZWU4eGE0YnVreXFobWo4dWw5bHEydmo0am9neHB5djVxd2txOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iml0ZFq2tNAzryx2rf/giphy.gif" alt="Coding Animation" width="100%" height="400">
+<p align="center" style="margin-top:10px;">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTkyZWU4eGE0YnVreXFobWo4dWw5bHEydmo0am9neHB5djVxd2txOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iml0ZFq2tNAzryx2rf/giphy.gif" alt="Coding Animation" width="100%" height="200">
 </p>
 
 ## 🌐 Connect With Me
