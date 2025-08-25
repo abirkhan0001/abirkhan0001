@@ -1,4 +1,4 @@
-<img src="https://camo.githubusercontent.com/51c0a7381d32821a8481a08cee4efa47f274e2806e6668d74eb86870d1ea105a/68747470733a2f2f692e6962622e636f2e636f6d2f68526267674770712f3230323635303332312d37663464613336312d663938662d343334352d386466342d616466333532613131333232312d657a6769662d636f6d2d726573697a652d312e676966" alt="Coding Animation" width="100%" height="600">
+<img src="https://camo.githubusercontent.com/51c0a7381d32821a8481a08cee4efa47f274e2806e6668d74eb86870d1ea105a/68747470733a2f2f692e6962622e636f2e636f6d2f68526267674770712f3230323635303332312d37663464613336312d663938662d343334352d386466342d616466333532613131333232312d657a6769662d636f6d2d726573697a652d312e676966" alt="Coding Animation" width="100%" height="200">
 
 
 ## Hi there 👋, I'm MD ABDULLAH
@@ -22,7 +22,7 @@
 - [Super Shop App](https://zastandapp.netlify.app)
 
 ### 💻 Currently Working On
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3JrcmUyd3Z0Y3ZiMGU4dTk4OWI1YnB3d2dwc2QyOWFtdXFuMjRhMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11JTxkrmq4bGE0/giphy.gif" alt="Coding Animation" width="100%" height="200">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTkyZWU4eGE0YnVreXFobWo4dWw5bHEydmo0am9neHB5djVxd2txOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iml0ZFq2tNAzryx2rf/giphy.gif" alt="Coding Animation" width="100%" height="400">
 
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-abdullah-4544b217a/)
