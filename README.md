@@ -33,6 +33,6 @@
 ![Abir's GitHub stats](https://github-readme-stats.vercel.app/api?username=abirkhan0001&show_icons=true&theme=radical)
 
 ### 👀 Visitor Count
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=abirkhan0001.abirkhan0001)
+![Profile View](https://visitor-badge.laobi.icu/badge?page_id=abirkhan0001.abirkhan0001)
 
 
