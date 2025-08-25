@@ -45,7 +45,7 @@
 
 
 ### 📊 GitHub Stats
-<p align="center">
+<p align="center" style="margin-top:10px;">
   <img 
        src="https://github-readme-stats.vercel.app/api?username=abirkhan0001&show_icons=true&theme=radical" 
        alt="Abir's GitHub stats" 
