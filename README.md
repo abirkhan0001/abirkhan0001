@@ -18,10 +18,10 @@
 
 ### 🚀 Projects & Portfolio
 <p align="center">
-  <a href="https://myportfoliojj.netlify.app/" target="_blank" style="text-decoration:none;">
+  <a href="https://myportfoliojj.netlify.app/" target="_blank" style="text-decoration:none hover:text-blue-600;">
     <img src="https://img.shields.io/badge/Portfolio%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Website" />
   </a>
-  <a href="https://zastandapp.netlify.app" target="_blank" style="text-decoration:none; margin-left:10px;">
+  <a href="https://zastandapp.netlify.app" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Super%20Shop%20App-0f172a?style=for-the-badge&logo=netlify&logoColor=white" alt="Super Shop App" />
   </a>
 </p>
