@@ -15,9 +15,9 @@
 - [Super Shop App](zastandapp.netlify.app) *(example project)*
 
 ### 📫 Connect with Me
-- [LinkedIn]([https://www.linkedin.com/in/abirkhan0001](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit))
+- [LinkedIn](https://www.linkedin.com/in/md-abdullah-4544b217a/)
 - [Twitter](https://twitter.com/abirkhan0001)
 - [Email](amabdullah097@gmail.com)
 
 ### 📊 GitHub Stats
-![Abir's GitHub stats]([https://github-readme-stats.vercel.app/api?username=abirkhan0001&show_icons=true&theme=radical](https://github.com/abirkhan0001))
+![Abir's GitHub stats](https://github.com/abirkhan0001)
