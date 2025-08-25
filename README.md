@@ -23,16 +23,14 @@
    style="text-decoration:none; color:white;" 
    onmouseover="this.style.color='lime';" 
    onmouseout="this.style.color='white';">
-   Portfolio Website
+   -Portfolio Website
 </a>
-
-   &nbsp; | &nbsp;
  <a href="https://zastandapp.netlify.app" 
    target="_blank" 
    style="text-decoration:none; color:white;" 
    onmouseover="this.style.color='lime';" 
    onmouseout="this.style.color='white';">
-   Super Shop App
+   -Super Shop App
 </a>
 
 </p>
